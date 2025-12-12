@@ -60,7 +60,7 @@ export function HeroSection() {
           <div className="grid grid-cols-3 gap-6 mt-20 max-w-xl mx-auto animate-fade-up opacity-0 stagger-4" style={{ animationDelay: "0.5s" }}>
             {[
               { value: "9+", label: "Years Experience" },
-              { value: "500+", label: "Clients Trained" },
+              { value: "200+", label: "Clients Trained" },
               { value: "5+", label: "Cuisines Mastered" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
