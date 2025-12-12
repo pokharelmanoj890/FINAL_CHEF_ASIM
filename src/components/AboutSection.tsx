@@ -90,10 +90,13 @@ export function AboutSection() {
                 expertise with fitness principles.
               </p>
               <p>
-                With a Bachelor's degree in Management, I bring a business-minded
-                approach to personal training and nutrition. Since 2022, I've been
-                training newcomers at a prestigious HR company, helping them build
-                confidence and develop sustainable habits.
+                As a Head Chef & Culinary Trainer, I specialize in preparing candidates for overseas culinary employment, equipping them with the technical, practical, and professional skills needed to excel in global kitchens. I design structured training programs, conduct performance assessments, and deliver hands-on sessions in pasta, pizza, burgers, salads, sauces, and kitchen fundamentals. My focus is on building confidence, discipline, hygiene practices, and international kitchen standards.
+              </p>
+              <p>
+                My culinary journey—from Commis to Sous Chef to Trainer—has shaped me into a chef who values quality, consistency, teamwork, and leadership. I thrive in fast-paced environments, maintain high levels of sanitation and organization, and ensure every dish reflects authenticity, creativity, and precision.
+              </p>
+              <p>
+                I am committed to nurturing the next generation of culinary professionals, helping them unlock global opportunities and build rewarding careers. Whether in the kitchen or the classroom, I bring passion, patience, and a drive to inspire excellence.
               </p>
             </div>
 
