@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 
 const highlights = [
   { icon: Award, label: "Executive Chef" },
-  { icon: Utensils, label: "15+ Cuisines" },
+  { icon: Utensils, label: "5+ Cuisines" },
   { icon: Heart, label: "Wellness Focus" },
 ];
 
